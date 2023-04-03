@@ -1,7 +1,7 @@
 # Sunshine Supermarket Managemnet System
 ### A c++ console app implemneting binary search tree algorithm
 
-#### This is a Data Structure and Algorithm Course Assignment built to implemnet binary search tree algorithm and be able to perform all operations like
+#### 📚 This is a Data Structure and Algorithm Course Assignment built to implemnet binary search tree algorithm and be able to perform all operations like
   🔥 Insert &emsp;🔥 Display &emsp;🔥 Search &emsp;🔥 Update &emsp;🔥 Delete &emsp;🔥 Sort
   #
  ## <p align="center">Screenshots of the program</p>
